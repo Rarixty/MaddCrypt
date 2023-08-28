@@ -3,3 +3,15 @@ MaddCrypt is a simple application that focuses on protection, encryption, and ob
 
 ## Dashboard
 ![image](https://i.imgur.com/v5gOoqi.jpeg)
+
+## Login
+![image](https://i.imgur.com/8ZgMBGr.jpeg)
+
+## Protector
+![image](https://i.imgur.com/mt6mhHe.jpeg)
+
+## Member
+![image](https://i.imgur.com/HbsJ1kF.jpeg)
+
+## Manage
+![image](https://i.imgur.com/U97lXRL.jpeg)
