@@ -13,5 +13,5 @@ MaddCrypt is a simple application that focuses on protection, encryption, and ob
 ## Member
 ![image](https://i.imgur.com/HbsJ1kF.jpeg)
 
-## Manage
+## Manage (only for lifetime)
 ![image](https://i.imgur.com/U97lXRL.jpeg)
