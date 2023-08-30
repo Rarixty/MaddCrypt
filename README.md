@@ -10,7 +10,7 @@ MaddCrypt is a simple application that focuses on protection, encryption, and ob
 ## Protector
 ![image](https://i.imgur.com/mt6mhHe.jpeg)
 
-## Member
+## Member (free trial join telegram)
 ![image](https://i.imgur.com/HbsJ1kF.jpeg)
 
 ## Manage (only for lifetime)
