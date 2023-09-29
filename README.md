@@ -4,16 +4,16 @@ MaddCrypt is a simple application that focuses on protection, encryption, and ob
 ## Dashboard
 ![image](https://www.maddog1337.xyz/assets/img/app/maddcrypt/Dashboard.png)
 
-## Protect - Main
+## Build Main
 ![image](https://www.maddog1337.xyz/assets/img/app/maddcrypt/Protect1.png)
 
-## Protect - StartUp
+## Build StartUp
 ![image](https://www.maddog1337.xyz/assets/img/app/maddcrypt/Protect2.png)
 
-## Protect - Assembly
+## Build Assembly
 ![image](https://www.maddog1337.xyz/assets/img/app/maddcrypt/Protect3.png)
 
-## Protect - Settings
+## Build Settings
 ![image](https://www.maddog1337.xyz/assets/img/app/maddcrypt/Protect4.png)
 
 ## Member
