@@ -16,8 +16,8 @@ MaddCrypt is a simple application that focuses on protection, encryption, and ob
 ## Protect - Settings
 ![image](https://www.maddog1337.xyz/assets/img/app/maddcrypt/Protect4.png)
 
-## Protect - Member
+## Member
 ![image](https://www.maddog1337.xyz/assets/img/app/maddcrypt/Member.png)
 
-## Protect - Manage
+## Manage
 ![image](https://www.maddog1337.xyz/assets/img/app/maddcrypt/Manage.png)
